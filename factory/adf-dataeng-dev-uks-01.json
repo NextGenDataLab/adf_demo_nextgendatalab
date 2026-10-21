@@ -1,0 +1,21 @@
+{
+	"name": "adf-dataeng-dev-uks-01",
+	"properties": {
+		"globalParameters": {
+			"email_recepient": {
+				"type": "string",
+				"value": "tadvisanjay@gmail.com"
+			}
+		},
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bc6c44e4-3094-45f2-a874-4ed62aabbb24",
+		"tenantId": "3f8076ac-ffdf-49ef-a5ab-27a9290eac59"
+	}
+}
