@@ -2,7 +2,7 @@
 	"name": "TGR_EVERNT_SIMPLE",
 	"properties": {
 		"annotations": [],
-		"runtimeState": "Started",
+		"runtimeState": "Stopped",
 		"pipelines": [
 			{
 				"pipelineReference": {
